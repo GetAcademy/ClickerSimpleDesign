@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Clicker.Core\ClickerApp.Core.csproj" />
+  </ItemGroup>
+
 </Project>
