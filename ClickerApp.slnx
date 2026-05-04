@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Clicker.Core/ClickerApp.Core.csproj" />
+  <Project Path="ClickerApp.Test/ClickerApp.Test.csproj" />
   <Project Path="ClickerSimpleDesign/ClickerApp.Console.csproj" />
 </Solution>
